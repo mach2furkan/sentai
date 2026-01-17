@@ -1,0 +1,8 @@
+2026-01-16 12:23:05.577 | INFO     | __main__:main:9 - Initializing Sentinel AI...
+2026-01-16 12:23:06.323 | INFO     | src.infrastructure.detector:_load_model:17 - Loading YOLO model from: yolov8n.pt
+2026-01-16 12:23:10.719 | SUCCESS  | src.infrastructure.detector:_load_model:19 - YOLO model loaded successfully.
+2026-01-16 12:23:14.700 | INFO     | src.infrastructure.video_source:_open:30 - Video source opened: 0, FPS: 15.0
+2026-01-16 12:23:47.422 | INFO     | __main__:main:9 - Initializing Sentinel AI...
+2026-01-16 12:23:47.755 | INFO     | src.infrastructure.detector:_load_model:17 - Loading YOLO model from: yolov8n.pt
+2026-01-16 12:23:47.786 | SUCCESS  | src.infrastructure.detector:_load_model:19 - YOLO model loaded successfully.
+2026-01-16 12:23:49.814 | INFO     | src.infrastructure.video_source:_open:30 - Video source opened: 0, FPS: 15.0
